@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.login-bg-con {
+  background: #fff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+  height: 400px;
+  width: 500px;
+  background: linear-gradient(#2b2c49, #bfb9ff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  border-radius: center;
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
+.btn-login {
+  height: 30px;
+  padding: 8px 20px;
+  border: 0;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #303150;
+}
